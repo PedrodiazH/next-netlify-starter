@@ -11,9 +11,10 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Wena compare" />
+        <Header title="AUTOPOIESIS" />
         <p className="description">
-          Prueba para ver si funciona esta shiet
+          Capacidad de un sistema para reproducirse y conservar el equilibrio y observar de gran manera el atardecer de forma no caucásica.
+                           También pueden hacer alusión a lo verde del pasto en ocasiones.
         </p>
       </main>
 
