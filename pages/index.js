@@ -7,7 +7,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="AUTOPOIESIS" />
+        <Header title="AUTOPOIESIS X" />
         <p className="description">
           Capacidad de un sistema para reproducirse,conservar el equilibrio
           y observar de gran manera el atardecer de forma no caucásica. 
