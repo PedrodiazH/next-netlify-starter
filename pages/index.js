@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Wena compare" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Prueba para ver si funciona esta shiet
         </p>
       </main>
 
