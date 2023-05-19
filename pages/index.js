@@ -12,7 +12,7 @@ export default function Home() {
 
       <main>
         <Header title="AUTOPOIESIS" />
-          <p Capacidad de un sistema para reproducirse,conservar el equilibrio
+          <p Capacidad de un sistema para reproducirse o conservar el equilibrio
           y observar de gran manera el atardecer de forma no caucásica. 
           También pueden hacer alusión a lo verde del pasto en ocasiones.
           </p>
